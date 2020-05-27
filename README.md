@@ -1,9 +1,9 @@
 ## Basic R Code
 Hi Everyone! This is a short introduction to coding with R. 
 
-### Markdown
+### Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First we need to download R. You can do this at the following [Link](https://cran.uni-muenster.de/bin/windows/base/R-4.0.0-win.exe)
 
 ```markdown
 Syntax highlighted code block
