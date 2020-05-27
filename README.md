@@ -28,9 +28,9 @@ a + b
 [1] 15
 ```
 
-The **<-** stores the variable "a" as the number 10. So now, any time you use a in a command, R knows that a represents 10. 
+The **<-** stores the variable `a` as the number 10. So now, any time you use a in a command, R knows that `a` represents 10. 
 
-If you wanted to change the value of "a", simply write a new line of code giving a new value to a. R will use the most recent version of the variable for all the code you write with variables. For example: 
+If you wanted to change the value of `a`, simply write a new line of code giving a new value to `a`. R will use the most recent version of the variable for all the code you write with variables. For example: 
 
 ```
 a <- 2000
@@ -38,29 +38,17 @@ a + b
 [1] 2005
 ```
 
-`Code`
+# For Loops
+Perhaps one of the most important concepts of programming is the idea of **for loops.** In its most basic form, a for loop allows you to repeat a section of code for a specified number of times. For example, if I wanted to sum every integer between 1 and 10, I would write the following code: 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+#for loops
+sum <- 0
+for (i in 1:10) {
+  sum = sum + i
+}
+sum
+[1] 65
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jolcott24/Practice-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
