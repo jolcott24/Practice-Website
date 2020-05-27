@@ -28,7 +28,7 @@ a + b
 [1] 15
 ```
 
-The **<-** stores the variable `a` as the number 10. So now, any time you use a in a command, R knows that `a` represents 10. 
+The `<-` stores the variable `a` as the number 10. So now, any time you use a in a command, R knows that `a` represents 10. 
 
 If you wanted to change the value of `a`, simply write a new line of code giving a new value to `a`. R will use the most recent version of the variable for all the code you write with variables. For example: 
 
