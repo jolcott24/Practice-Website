@@ -50,4 +50,6 @@ sum
 [1] 65
 ```
 
+R can be used to tackle difficult statistical problems and can be used to create amazing graphs. Often times, less code is better. As Dr. Suess once said:
+> Sometimes the questions are complicated and the answers are simple.
 
