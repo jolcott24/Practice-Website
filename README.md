@@ -11,7 +11,13 @@ Next, we must learn some of the basics of R code. First, R can act as a calculat
 2 + 4
 ```
 
-If you **run** this code, which you can do with ctrl + enter or by hitting the ![Green Button](https://lh3.googleusercontent.com/proxy/1dONBYph1LF8aiE4xD98UMlYzWAfvVqKRQ_JJRf-9EscdKI-3R3HSI_8TIVVG3PWOzK0Rad1qIxsaTbSuI1K7BcEQwGkU2_WMr5S1vE7w7qVYCpn_RA)
+Try **running** this code, which you can do with ctrl + enter or by hitting the Green "Run Button" (see image below) ![Green Button](https://lh3.googleusercontent.com/proxy/1dONBYph1LF8aiE4xD98UMlYzWAfvVqKRQ_JJRf-9EscdKI-3R3HSI_8TIVVG3PWOzK0Rad1qIxsaTbSuI1K7BcEQwGkU2_WMr5S1vE7w7qVYCpn_RA)
+
+This line of code should print the number 6 located in the "Script Results" section 
+
+```[1] 6
+```
+
 
 # Header 1
 ## Header 2
