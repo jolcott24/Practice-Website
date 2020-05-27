@@ -42,7 +42,6 @@ a + b
 Perhaps one of the most important concepts of programming is the idea of **for loops.** In its most basic form, a for loop allows you to repeat a section of code for a specified number of times. For example, if I wanted to sum every integer between 1 and 10, I would write the following code: 
 
 ```
-#for loops
 sum <- 0
 for (i in 1:10) {
   sum = sum + i
