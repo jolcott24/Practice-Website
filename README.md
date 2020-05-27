@@ -15,7 +15,8 @@ Try **running** this code, which you can do with ctrl + enter or by hitting the 
 
 This line of code should print the number 6 located in the "Script Results" section 
 
-```[1] 6
+```
+[1] 6
 ```
 
 
