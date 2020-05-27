@@ -19,6 +19,24 @@ This line of code should print the number 6 located in the "Script Results" sect
 [1] 6
 ```
 
+One of the most important concepts in programming is the idea of **variables.** Variables store information, and are super useful in reducing the amount of code you need to write. Lets look at an example of some math using variables. 
+
+```
+a <- 10 
+b <- 5
+a + b
+[1] 15
+```
+
+The **<-** stores the variable "a" as the number 10. So now, any time you use a in a command, R knows that a represents 10. 
+
+If you wanted to change the value of "a", simply write a new line of code giving a new value to a. R will use the most recent version of the variable for all the code you write with variables. For example: 
+
+```
+a <- 2000
+a + b 
+[1] 2005
+``'
 
 # Header 1
 ## Header 2
