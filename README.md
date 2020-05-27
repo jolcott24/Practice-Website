@@ -5,8 +5,10 @@ Hi Everyone! This is a short introduction to coding with R.
 
 First we need to download R. You can do this at the following [Link](https://cran.uni-muenster.de/bin/windows/base/R-4.0.0-win.exe)
 
+Next, we must learn some of the basics of R code. First, R can act as a calculator. For example:
+
 ```markdown
-Syntax highlighted code block
+2 + 4
 
 # Header 1
 ## Header 2
