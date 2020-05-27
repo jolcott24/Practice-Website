@@ -36,7 +36,9 @@ If you wanted to change the value of "a", simply write a new line of code giving
 a <- 2000
 a + b 
 [1] 2005
-``'
+```
+
+`Code`
 
 # Header 1
 ## Header 2
